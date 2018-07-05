@@ -2,4 +2,6 @@
 first repository for learning
 
 this is my new branch of master, what will happen?
-sorry , i don't know.
+
+now, i know. it works well.
+2018-7-5
